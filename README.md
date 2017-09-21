@@ -1,5 +1,5 @@
 # PKU-advancedCDesign
-<h1>Coursera 2 C程序设计进阶<p></p>
+<h1>C程序设计进阶<p></p>
 Ge Li 李戈, Ph.D. 
 Peking University<p></p>
 course 2 of 程序设计与算法 Peking University speciality
